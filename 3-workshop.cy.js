@@ -1,8 +1,6 @@
 
 describe('financas', () =>{
 
-    //cada it é um test
-
     it('cadastrar uma nova entrada' , () =>{
         cy.visit('https://devfinance-agilizei.netlify.app/')
 
